@@ -34,6 +34,7 @@ This is a public alpha preview. We’ve been experimenting the best format and s
 
 - dynamic and real-time live store assets based on Discord/Twitter activities
 - integrated text/image-to-3D asset generation pipeline
+- custom domains for store owners
 - whole store generation with qAI
 - NEXT LEVEL upgrades (currently in maintenance mode)
 - native multiplayer support in store mode

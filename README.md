@@ -60,8 +60,6 @@ Another store example:
   title="Nakamoto Temple"
   shortDescription="The Only Temple in Nakamoto Matrix"
   endUnixTimeStamp="1753945200"
-  preOrderItem="Member Pass"
-  priceSats="10000"
   whitelistSats="10000"
   whitelistItem="VIP Pass"
   storeLogo="https://quark20a.s3.us-west-1.amazonaws.com/q/sq1374458709501153290.jpg"
